@@ -1,11 +1,11 @@
 # Lessons-Learned
 Things I've learned with Bloc
-*Command Line
-*HTML and CSS fundamentals
-*Formatting
-*Inserting images
-*Linking urls with text and images
-*Hexadecimal color values
-*HTML5
-*CSS3
+1. Command Line
+2. HTML and CSS fundamentals
+3. Formatting
+4. Inserting images
+5. Linking urls with text and images
+6. Hexadecimal color values
+7. HTML5
+8. CSS3
 
